@@ -15,7 +15,7 @@
 
 ## Advantages and disadvantages of refactoring code in general:
 
-### Refactoring improves the code and makes it easier to understand, helps debugging and makes the progra run faster.
+### Refactoring improves the code and makes it easier to understand, helps debugging and makes the program run faster.
 
 ### Disadvantages: For short term proyects it can take alot of time.
 
