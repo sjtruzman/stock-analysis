@@ -21,7 +21,7 @@
 
 <img width="358" alt="2017 code run" src="https://user-images.githubusercontent.com/101905587/172932961-a6d63e81-cd33-442a-a962-3cca731370ca.png">
 
-<img width="614" alt="All Stock 2018" src="https://user-images.githubusercontent.com/101905587/172932980-dca706ce-96c7-41ea-ae33-6b11780a4399.png">
+<img width="463" alt="2018 code run" src="https://user-images.githubusercontent.com/101905587/172934408-72c98b57-ddbe-45c7-a3ae-b74406d8a879.png">
 
 ## Results
 
